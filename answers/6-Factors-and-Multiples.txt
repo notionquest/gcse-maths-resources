@@ -1,0 +1,43 @@
+Multiples and Factors:
+----------------------
+
+1) List the first five multiples of
+
+a) 4
+b) 10
+c) 7
+
+2) 
+
+a) List the multiples of 8 between 10 and 20
+b) List the multiples of 9 between 20 and 50
+
+3) List all the common multiples of 5 and 6 between 1 and 40.
+
+4) List all the common multiples of 3 and 4 between 19 and 35.
+
+5) List all the factors of the following numbers.
+
+a) 10
+b) 25
+c) 24
+d) 35
+
+6) List all the factors of 15
+
+7) List all the factors of 21
+
+8) List the common factors of 15 and 21.
+
+9) List the common factors of the following sets of numbers.
+
+a) 15, 20, 25
+b) 15, 16, 17
+c) 12, 18, 20
+
+10) List the common factors of the following pairs of numbers.
+
+a) 15, 20
+b) 25, 50
+c) 30, 45
+d) 21, 22
