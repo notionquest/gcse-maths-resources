@@ -1,0 +1,26 @@
+Prime Numbers:
+--------------
+
+1) Numbers: 31, 33, 35, 37 and 39
+
+a) Which three numbers in the box on the right are not prime?
+b) Find two factors greater than 1 that multiply together to give each of your answers to a)
+
+(Note: Please find the answers for a and then work out for b.)
+
+2) Write down the prime numbers in this list: 5, 15, 22, 34, 47, 51, 59
+
+3) Find all the prime numbers between 20 and 30
+
+4)
+
+a) For each of the following, find a factor greater than 1 but less than the number itself.
+
+i) 4    
+ii) 14
+iii) 34
+iv) 74
+
+b) Explain why any number with last digit 4 cannot be prime.
+
+5) Write 12 as the product of prime factors.
