@@ -1,0 +1,68 @@
+Here are the answers:
+
+---
+
+## 1) Numbers: 31, 33, 35, 37 and 39
+
+### a) Which three numbers are not prime?
+
+33, 35 and 39
+
+(31 and 37 are prime.)
+
+---
+
+### b) Two factors greater than 1 that multiply together:
+
+ 33 = 3 × 11
+ 35 = 5 × 7
+ 39 = 3 × 13
+
+---
+
+## 2) Prime numbers in the list
+
+List: 5, 15, 22, 34, 47, 51, 59
+
+Prime numbers:
+
+5, 47, 59
+
+---
+
+## 3) Prime numbers between 20 and 30
+
+Numbers between 20 and 30:
+
+21, 22, 23, 24, 25, 26, 27, 28, 29
+
+Prime numbers:
+
+23 and 29
+
+---
+
+## 4a) A factor greater than 1 but less than the number
+
+i) 4 → 2
+ii) 14 → 2 (or 7)
+iii) 34 → 2 (or 17)
+iv) 74 → 2 (or 37)
+
+---
+
+## 4b) Why can any number ending in 4 not be prime?
+
+Because any number that ends in 4 is even, meaning it is divisible by 2.
+
+Prime numbers (except 2) are not even, so they cannot end in 4.
+
+---
+
+## 5) Write 12 as the product of prime factors
+
+12 = 2 × 2 × 3
+
+Or in index form:
+
+12 = 2² × 3
