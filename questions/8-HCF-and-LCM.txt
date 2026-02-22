@@ -1,0 +1,50 @@
+HCF and LCM:
+------------
+
+1) Find the LCM of 4, 6 and 8.
+
+2) 
+
+a) Find the first 5 multiples of 9 and the first 5 multiples of 12.
+b) Hence find the LCM of 9 and 12.
+
+3) Find the LCM of each of the following pairs of numbers.
+
+a) 3 and 4
+b) 2 and 10
+c) 10 and 15
+d) 15 and 20 
+
+4) Find the LCM of each of the sets of numbers below.
+
+a) 3, 6, 8
+b) 3, 5, 6
+c) 4, 9, 12
+
+5) Mike visits Oscar every 4 days, while Narinda visits Oscar every 5 days. If they both
+visted today, how many days will it be before they visit on the same day again?
+
+6) A garden centre has between 95 and 205 ptted plants. They can be arranged exactly in rows
+of 25 and exactly in rows of 30. How many plants are there?
+
+7) Find the HCF of 12 and 15.
+
+8) 
+
+a) Find the common factors of 12 and 20.
+b) Hence find the HCF of 12 and 20.
+
+9) Write down the following:
+
+a) the HCF of 11 and 12
+b) the HCF of 21 and 22
+
+10) Find the HCF of the following sets of numbers?
+
+a) 6, 8, 16
+b) 12, 15, 18
+c) 18, 36, 72
+
+11) Find the HCF of 48 and 60.
+
+12) Write 380 as a product of its prime factors.
