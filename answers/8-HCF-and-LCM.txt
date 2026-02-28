@@ -1,0 +1,175 @@
+HCF and LCM:
+------------
+
+### 1) Find the LCM of 4, 6 and 8
+
+Prime factors:
+4 = 2²
+6 = 2 × 3
+8 = 2³
+
+LCM = highest powers of each prime
+= 2³ × 3
+= 8 × 3
+= 24
+
+---
+
+### 2a) First 5 multiples
+
+Multiples of 9:
+9, 18, 27, 36, 45
+
+Multiples of 12:
+12, 24, 36, 48, 60
+
+### 2b) LCM of 9 and 12
+
+The first common multiple is 36
+
+LCM = 36
+
+---
+
+### 3) LCM of pairs
+
+a) 3 and 4
+LCM = 12
+
+b) 2 and 10
+LCM = 10
+
+c) 10 and 15
+10 = 2 × 5
+15 = 3 × 5
+LCM = 2 × 3 × 5 = 30
+
+d) 15 and 20
+15 = 3 × 5
+20 = 2² × 5
+LCM = 2² × 3 × 5 = 60
+
+---
+
+### 4) LCM of sets
+
+a) 3, 6, 8
+3 = 3
+6 = 2 × 3
+8 = 2³
+LCM = 2³ × 3 = 24
+
+b) 3, 5, 6
+6 = 2 × 3
+LCM = 2 × 3 × 5 = 30
+
+c) 4, 9, 12
+4 = 2²
+9 = 3²
+12 = 2² × 3
+LCM = 2² × 3²
+= 4 × 9
+= 36
+
+---
+
+### 5) Visits problem
+
+Mike visits every 4 days.
+Narinda visits every 5 days.
+
+LCM of 4 and 5 = 20
+
+They will visit on the same day again in 20 days.
+
+---
+
+### 6) Garden centre problem
+
+They can be arranged in rows of 25 and 30.
+So we find the LCM of 25 and 30.
+
+25 = 5²
+30 = 2 × 3 × 5
+
+LCM = 2 × 3 × 5²
+= 150
+
+Between 95 and 205, the only multiple of 150 is 150.
+
+There are 150 plants.
+
+---
+
+### 7) HCF of 12 and 15
+
+12 = 2² × 3
+15 = 3 × 5
+
+HCF = 3
+
+---
+
+### 8a) Common factors of 12 and 20
+
+Factors of 12:
+1, 2, 3, 4, 6, 12
+
+Factors of 20:
+1, 2, 4, 5, 10, 20
+
+Common factors:
+1, 2, 4
+
+### 8b) HCF
+
+HCF = 4
+
+---
+
+### 9)
+
+a) HCF of 11 and 12
+11 is prime
+HCF = 1
+
+b) HCF of 21 and 22
+21 = 3 × 7
+22 = 2 × 11
+HCF = 1
+
+---
+
+### 10) HCF of sets
+
+a) 6, 8, 16
+HCF = 2
+
+b) 12, 15, 18
+Common factor = 3
+
+c) 18, 36, 72
+HCF = 18
+
+---
+
+### 11) HCF of 48 and 60
+
+48 = 2⁴ × 3
+60 = 2² × 3 × 5
+
+HCF = 2² × 3
+= 4 × 3
+= 12
+
+---
+
+### 12) Prime factors of 380
+
+380 = 38 × 10
+= (2 × 19) × (2 × 5)
+= 2² × 5 × 19
+
+380 = 2² × 5 × 19
+
+---
