@@ -1,0 +1,48 @@
+1) Simplify the following expressions.
+
+a) a * a * a 
+b) 2a * 3a
+c) 12a * 4b 
+d) 6p * 8p
+
+2) Simplify the following expressions.
+
+a) a * ab
+b) 4m^3 / m
+c) (r^2)^3
+d) 3(st)^2
+e) 4a^2 * 5a
+f) 4a^4b^3 * 2ab^2
+g) 6y^2 / 3y
+
+3) Expand the brackets in these expressions.
+
+a) 2(a + 5)
+b) 4(b + 3)
+c) 3(p + 4)
+d) 5(3 - y)
+e) 8(a - b)
+
+4) Expand the brackets in these expressions.
+
+a) x(y + 5)
+b) p(q + 2)
+c) x(8 - x)
+d) 3(u + 8v)
+e) 7(5n - 6m)
+
+5) Expand the brackets in the following expressions.
+
+a) -(q + 2)
+b) -(x + 7)
+c) -x(12 - x)
+d) -5(5 - x)
+e) -y(4 + y)
+
+6) Expand the brackets in the following expressions.
+
+a) -6(5g - 3)
+b) -7(4v + 8)
+c) -2(5 + 4m)
+d) -5(10 - 8v)
+e) -4y(2y + 6)
