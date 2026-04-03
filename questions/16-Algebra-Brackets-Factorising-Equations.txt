@@ -1,0 +1,53 @@
+1) Simplify the following equations.
+
+a) 2(z +3) + 4(z + 2)
+b) 5(p - 3) - (p + 6)
+c) 2(j -5) - (j - 3)
+d) 5(y - 4) - (y - 2)
+e) 5 (3c - 6) - (c - 3)
+
+2) Expand the brackets in the following expressions.
+
+a) (a + 2)(b + 3)
+b) (j + 4)(k - 5)
+c) (5x + 4)(3 - y)
+d) (3a - 1)(2b + 2)
+e) (c + 5)(3 - c)
+
+3) Expand the brackets in the following expressions.
+
+a) (x + 1)^2
+b) (x - 7)^2
+c) 3(x + 3)^2
+d) 2(x - 6)^2
+e) (3x - 1)^2
+
+4) Factorise the following expressions.
+
+a) 2a + 10
+b) 15y - 7y^2
+c) 21q^2 - 16q
+d) 27z^2 + 11z
+e) 7y + 15y^2
+
+5) Factorise the following expressions.
+
+a) 10c^2 - 5cd
+b) 20x^2 - 10xy
+c) 9x^2 + 6xy
+d) 12x^2 + 8xy
+e) 24x^2y - 16xy^2
+
+6) Factorise the following expressions.
+
+a) x^2 - 25
+b) x^2 - 64
+c) t^2 - 144
+
+7) Solve the following equations.
+
+a) 12 - x = 9
+b) 4 - x = 2
+c) 14 = 8 - x
+d) 7 = 5 - x
+e) 2 - x = 7
