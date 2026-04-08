@@ -1,0 +1,140 @@
+1) Simplify the following equations
+
+a) 2(z + 3) + 4(z + 2)
+= 2z + 6 + 4z + 8
+= 6z + 14
+
+b) 5(p - 3) - (p + 6)
+= 5p - 15 - p - 6
+= 4p - 21
+
+c) 2(j - 5) - (j - 3)
+= 2j - 10 - j + 3
+= j - 7
+
+d) 5(y - 4) - (y - 2)
+= 5y - 20 - y + 2
+= 4y - 18
+
+e) 5(3c - 6) - (c - 3)
+= 15c - 30 - c + 3
+= 14c - 27
+
+---
+
+2) Expand the brackets
+
+a) (a + 2)(b + 3)
+= ab + 3a + 2b + 6
+= ab + 3a + 2b + 6
+
+b) (j + 4)(k - 5)
+= jk - 5j + 4k - 20
+= jk - 5j + 4k - 20
+
+c) (5x + 4)(3 - y)
+= 15x - 5xy + 12 - 4y
+= 15x - 5xy + 12 - 4y
+
+d) (3a - 1)(2b + 2)
+= 6ab + 6a - 2b - 2
+= 6ab + 6a - 2b - 2
+
+e) (c + 5)(3 - c)
+= 3c - c² + 15 - 5c
+= -c² - 2c + 15
+
+---
+
+3) Expand the brackets
+
+a) (x + 1)²
+= x² + 2x + 1
+= x² + 2x + 1
+
+b) (x - 7)²
+= x² - 14x + 49
+= x² - 14x + 49
+
+c) 3(x + 3)²
+= 3(x² + 6x + 9)
+= 3x² + 18x + 27
+
+d) 2(x - 6)²
+= 2(x² - 12x + 36)
+= 2x² - 24x + 72
+
+e) (3x - 1)²
+= 9x² - 6x + 1
+= 9x² - 6x + 1
+
+---
+
+4) Factorise the following expressions
+
+a) 2a + 10
+= 2(a + 5)
+
+b) 15y - 7y²
+= y(15 - 7y)
+
+c) 21q² - 16q
+= q(21q - 16)
+
+d) 27z² + 11z
+= z(27z + 11)
+
+e) 7y + 15y²
+= y(7 + 15y)
+
+---
+
+5) Factorise the following expressions
+
+a) 10c² - 5cd
+= 5c(2c - d)
+
+b) 20x² - 10xy
+= 10x(2x - y)
+
+c) 9x² + 6xy
+= 3x(3x + 2y)
+
+d) 12x² + 8xy
+= 4x(3x + 2y)
+
+e) 24x²y - 16xy²
+= 8xy(3x - 2y)
+
+---
+
+6) Factorise the following expressions
+
+a) x² - 25
+= (x - 5)(x + 5)
+
+b) x² - 64
+= (x - 8)(x + 8)
+
+c) t² - 144
+= (t - 12)(t + 12)
+
+---
+
+7) Solve the following equations
+
+a) 12 - x = 9
+x = 3
+
+b) 4 - x = 2
+x = 2
+
+c) 14 = 8 - x
+x = -6
+
+d) 7 = 5 - x
+x = -2
+
+e) 2 - x = 7
+x = -5
+
