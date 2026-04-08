@@ -1,0 +1,70 @@
+1) Solve the following equations.
+
+a) x + 7 = 12
+b) x - 8 = 14
+c) 12 - x = 23
+d) 35 = 31 - x
+
+2) Solve the following equations.
+
+a) x - 7.3 = 1.6
+b) 6.03 - x = 0.58
+c) 5.2 = 2.8 - x
+
+3) Solve the following equations.
+
+a) x / 3 = 2
+b) x / 6 = -3
+c) x / 3 = 0.4
+d) 3.5x = -7
+
+4) Solve these equations by multiplying or dividing both sides by a negative number.
+
+a) -7x = -56
+b) -9x = 108
+c) -4.5x = -.27
+d) -x/4 = 3
+e) -x/10 = 1.1
+
+5) Solve the following equations.
+
+a) 4x/3 = 12
+b) 2x/5 = 6
+c) 6x/7 = 12
+d) 11x/2.2 = 6.3
+
+6) Solve the following equations.
+
+a) 8x + 10 = 66
+b) 10x + 15 = 115
+c) 2x + 9 = -2
+d) 12x + 9 = 105
+
+7) Solve the following equations.
+
+a) 16x - 6 = 10
+b) 15x - 8 =22
+c) 14x - 17 = 25
+d) 20x - 12 = -132
+
+8) Solve the following equations.
+
+a) x/2 + 1 = 7
+b) x/4 - 5 = -9
+c) x/2 - 1 = 3.5
+d) x/7 - 8 = -11
+
+9) Solve the following equations.
+
+a) 12 - 4x = 8
+b) 47 - 9x = 11
+c) 17 - 10x = 107
+
+10) Solve the following equations.
+
+a) 7(x + 4) = 63
+b) 13(x - 4) = -91
+c) 14(x - 2) = -98
+d) 12.5(x - 4) = 75
+e) 36 = 7.2(2 -x)
+
