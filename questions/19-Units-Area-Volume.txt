@@ -1,0 +1,48 @@
+1) Find the area of the rectangle on the right in mm^2  by:
+
+Given: The reactangle is 3 cm * 5 cm.
+
+a) First converting its length and width to mm.
+
+b) First finding the area in cm^2 and then using the appropriate conversion factor.
+
+2) Work out the area (in m^2) of a rectangular farm measuring 2 km by 3 km by:
+
+a) first converting its length and width to m.
+b) first finding the area in km^2 and then using the appropriate conversion factor.
+
+3) One bottle of weedkiller can treat an area of 16m^2. How many bottles of this weedkiller should Ali buy to treat
+her lawn measuring 990cm by 430 cm?
+
+4) Convert each of the following areas into the units given. 
+
+a) 26 cm^2 into mm^2
+b) 1.05 m^2 into cm^2
+c) 1.2 m^2 into cm^2
+d) 1750 cm^2 into m^2
+e) 8500 mm^2 into cm^2
+f) 27 cm^2 into m^2
+
+5) Sandeesh wants to carpet two rectangular rooms. One of the rooms measures 1.7m by 3 m, the other is 670 cm by
+420 cm. How many square metres of carpet will she need? 
+
+6) Convert a volume of 382 000 cm^3 to m^3.
+
+7) Work out the volume (in m^3) of the swimming pool shown by:
+
+a) First converting its length, width and depth to m.
+b) First finding the volume in cm^3 and then using the appropriate conversion factor.
+
+8) Convert each of these volumes into the units given.
+
+a) 0.001 km^3 into m^3
+b) 16000 mm^3 into cm^3
+c) 35.9 cm^3 into m^3
+d) 1.2 km^3 into m^3
+
+9) A box is 10.5 cm long by 5.3 cm wide by 8.67 cm tall. Find the volume of the box in mm^3.
+
+10) 
+
+a) Convert 0.56 m^3 to cm^3.
+b) Use your answer to a) to convert 0.56 m^3 into mm^3.
