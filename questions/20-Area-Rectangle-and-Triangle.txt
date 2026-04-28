@@ -1,0 +1,37 @@
+1) Find the perimeter of the triangle.
+
+a) Side 1 = 14 m, Side 2 = 18 m, Side 3 = 11m
+b) Side 1 = 5 cm, Side 2 = 4 cm, Side 3 = 3 cm
+
+2) Find the area of the triangle.
+
+a) Base = 14 m, Height = 10 m
+b) Base = 10 m, Height = 7 m
+
+3) Find the perimeter of each shape described below.
+
+a) A square with sides of length 4 cm
+b) A triangle where two sides measure 5 cm and one side measures 7 cm
+c) A reactangle of width 6 m and length 8 m
+
+4) Find the area of the square.
+
+a) Side = 4
+b) Side = 10
+
+5) Find the area of the rectangle.
+
+a) Length = 5 cm, Breadth = 10 cm
+b) Length = 10 cm, Breadth = 9 cm
+
+6) Find the area of each shape described below. 
+
+a) A reactangle 23 mm long and 15 mm wide.
+b) A square with 17 m sides
+c) A triangle with a base of 4 cm and a height of 12.5 cm
+
+7) Barb has a rectangular lawn 23.5 m long by 17.3 m wide. She is going to mow the lawn. 
+What area will Barb have to mow (to the nearest m2)?
+
+8) A rectangular garden 24 m long and 5.4 m wide is to be re-turfed. Turf is bought in rolls that
+are 60 cm wide and 8 m long. How many rolls of turf are needed to cover the garden?
